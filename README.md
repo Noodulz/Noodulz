@@ -6,4 +6,7 @@
 - 💬 Ask me about good ramen brands and great films to watch and cry to
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I really really really like noodles
-- 🤠 This thingy's going to change soon but for now, I'll finish by mentioning I am really hooked on Red Dead Redemption 2 right now
+- 
+- Programming Languages and Tools I Use:
+-
+- ![](/ico/python.png)![](/ico/c.png)![](/ico/java.png)![](/ico/javascript.png)![](/ico/html.png)![](/ico/css.png)![](/ico/linux.png)![](/ico/bash.png)![](arch.png)![](visualstudio.png)![](vim.png)
