@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I really really really like noodles
 
 
-Programming Languages and Tools I Use:
+## Programming Languages and Tools I Use:
 
 ![](/ico/python.png)![](/ico/c.png)![](/ico/java.png)![](/ico/javascript.png)![](/ico/html.png)![](/ico/css.png)![](/ico/linux.png)![](/ico/bash.png)![](arch.png)![](visualstudio.png)![](vim.png)
