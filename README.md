@@ -6,7 +6,6 @@
 - 💬 Ask me about good ramen brands and great films to watch and cry to
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I really really really like noodles
-## Programming Languages and Tools I Use: 
-<br/>
+# Programming Languages and Tools I Use: 
 
 ![](/ico/python.png)![](/ico/c.png)![](/ico/java.png)![](/ico/javascript.png)![](/ico/html.png)![](/ico/css.png)![](/ico/linux.png)![](/ico/bash.png)![](/ico/arch.png)![](/ico/visualstudio.png)![](/ico/vim.png)
