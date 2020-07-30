@@ -7,6 +7,3 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I really really really like noodles
 
-## Programming Languages and Tools I Use:
-
-![](https://github.com/Noodulz/Noodulz/blob/master/ico/arch.png)
