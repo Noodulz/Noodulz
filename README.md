@@ -1,4 +1,4 @@
-# Hi
+## Hi
 ![](https://github.com/Noodulz/Noodulz/blob/master/kobayashiprogramming.gif)
 - 👺 I'm a Computer Science student and developer interested in info and web security
 - 🔭 I’m currently working on developing a new official web portal for UFSIT and completing CS50 as well as other projects
