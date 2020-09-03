@@ -12,4 +12,6 @@
 
 ![](https://github.com/Noodulz/Noodulz/blob/master/ico/python.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/c.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/java.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/javascript.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/html.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/css.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/linux.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/bash.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/arch.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/vim.png)![](https://github.com/Noodulz/Noodulz/blob/master/ico/visualstudio.png)
 <br/>
-![Nerd Stats](https://github-readme-stats.vercel.app/api/?username=Noodulz&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Noodulz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Nerd Stats](https://github-readme-stats.vercel.app/api/?username=Noodulz&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
+<br/>
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Noodulz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
