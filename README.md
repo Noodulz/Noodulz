@@ -1,7 +1,7 @@
 ## Hi
-<div style="text-align:center">
+<p align="center">
   <img src="https://github.com/Noodulz/Noodulz/blob/master/kobayashiprogramming.gif" alt="gif"></img>
- </div>
+ </p>
 <br/>
 🍜 I'm a student and developer interested in info and web security <br/>
 🍜 I’m currently working on developing a new official web portal for UFSIT and completing CS50 as well as other projects <br/>
