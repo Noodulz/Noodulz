@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!</h1>
 <br/>
 <p align = "center">
-  🍜 I'm an English student and developer interested in info and web security <br/>
+  🍜 I am currently an English student and developer interested in info and web security <br/>
   🍜 I’m currently working on developing a new official web portal for UFSIT and completing CS50 as well as other projects <br/>
   🍜 At the moment, I'm learning C, C++, ethical hacking, and web application security <br/>
   🍜 Ask me about good ramen brands and great films to watch and cry to <br/>
