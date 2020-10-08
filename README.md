@@ -2,7 +2,8 @@
 <br/>
 <p align = "center">
   🍜 I am currently an English student and developer interested in info and web security <br/>
-  🍜 I’m currently working on developing a new official web portal for UFSIT and developing a platformer game as well as a CHIP-8 game for OctoJam! <br/>
+  🍜 I’m currently working on developing a new official web portal for UFSIT <br/>
+  🍜 I'm also developing a platformer game for Yuri Jam as well as a CHIP-8 game for OctoJam this month! <br/>
   🍜 At the moment, I'm learning C++, game development, and web application security <br/>
   🍜 Ask me about good ramen brands and great films to watch and cry to <br/>
   🍜 Pronouns: She/her <br/>
