@@ -1,6 +1,6 @@
-<h1 align="left">Hey there</h1>
+<h1 align="center">Hello!</h1>
 <br/>
-<p align = "left">
+<p align = "center">
   🍜 I'm an English student and developer interested in info and web security <br/>
   🍜 I’m currently working on developing a new official web portal for UFSIT and completing CS50 as well as other projects <br/>
   🍜 At the moment, I'm learning C, C++, ethical hacking, and web application security <br/>
