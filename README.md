@@ -1,4 +1,4 @@
-<h1 align="center">Hey there</h1>
+<h1 align="left">Hey there</h1>
 <br/>
 <p align = "left">
   🍜 I'm an English student and developer interested in info and web security <br/>
