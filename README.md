@@ -1,13 +1,13 @@
 <h1 align="center">Hello World!</h1>
 <br/>
 <p align = "center">
-  🍜 I am currently an English student and developer interested in info and web security <br/>
-  🍜 I’m currently working on developing a new official web portal for UFSIT <br/>
+  🍜 I am currently an English student and developer interested in info and web security. <br/>
+  🍜 I’m currently working on developing a new official web portal for UFSIT. <br/>
   🍜 I'm also developing a platformer game for Yuri Jam as well as a CHIP-8 game for OctoJam this month! <br/>
-  🍜 At the moment, I'm learning C++, game development, and web application security <br/>
-  🍜 Ask me about good ramen brands and great films to watch and cry to <br/>
+  🍜 At the moment, I'm learning C++, game development, and web application security. <br/>
+  🍜 Ask me about good ramen brands and great films to watch and cry to. <br/>
   🍜 Pronouns: She/her <br/>
-  🍜 Fun fact: I really really really like noodles <br/>
+  🍜 Fun fact: I really really really like noodles. <br/>
 </p>
 <br/>
 <div align="center">
