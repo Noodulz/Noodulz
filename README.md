@@ -1,5 +1,10 @@
 <h1 align="center">Hello World!</h1>
 <br/>
+
+<p align = "center">
+<img src="https://github.com/Noodulz/Noodulz/blob/master/moomoolightstick.gif" align = "center">
+</p>
+            
 <p align = "center">
   🍜 I am currently an English student and developer interested in info and web security. <br/>
   🍜 I’m currently working on developing a new official web portal for UFSIT. <br/>
