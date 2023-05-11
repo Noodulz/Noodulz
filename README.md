@@ -1,14 +1,14 @@
 ## <img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/> About me
 
-<img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"></img> Front-End and Software Developer with a penchant for film
-</br>
-<img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"></img> Studied English and Computer Science at the University of Florida
-</br>
-<img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"></img> Currently working freelance and open to new opportunities!
-</br>
-<img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"></img> Specializations: Front-End, Back-End, Software Engineering, Game Design, Compilers, Security
-</br>
-<img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"></img> Hobbies: Watching films, exploring new cities, reading novels and poetry, video games
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Front-End and Software Developer with a penchant for film
+
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Studied English and Computer Science at the University of Florida
+
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Currently working freelance and open to new opportunities!
+
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Front-End, Back-End, Software Engineering, Game Design, Compilers, Security
+
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels and poetry, video games
 
 
 ## <img height="60" src="https://github.com/Noodulz/Noodulz/blob/master/assets/mew.gif"/> Links
