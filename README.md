@@ -10,6 +10,7 @@
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels and poetry, video games
 
+</br>
 
 ## <img height="60" src="https://github.com/Noodulz/Noodulz/blob/master/assets/mew.gif"/> Links
 <a href="https://jdzng-resume.tiiny.site/" rel="nofollow"><img src="https://camo.githubusercontent.com/d9a2646bbda906f71c96f04b6d503b0ba3ef0d129a2769c812a49e8a3220633e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d726573756d652d3333324234303f7374796c653d666c61742d737175617265" alt="" data-canonical-src="https://img.shields.io/badge/-resume-332B40?style=flat-square" style="height:29px;"></a>
