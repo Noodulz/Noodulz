@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1000" height="290" src="https://w.wallhaven.cc/full/4d/wallhaven-4de95g.jpg"/>
-</div>
-
 ## <img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/> About me
 
 <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"></img> Front-End and Software Developer with a penchant for film
