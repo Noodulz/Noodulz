@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1000" height="400" src="https://w.wallhaven.cc/full/4d/wallhaven-4de95g.jpg"/>
+<img width="1000" height="290" src="https://w.wallhaven.cc/full/4d/wallhaven-4de95g.jpg"/>
 </div>
 
 ## <img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/> About me
