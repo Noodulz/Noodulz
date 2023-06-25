@@ -1,6 +1,6 @@
 ## <img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/> About me
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Front-End and Software Developer with a penchant for film
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Full Stack Software Engineer with a penchant for film
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Studied English @ University of Florida
 
