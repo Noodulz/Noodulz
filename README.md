@@ -4,8 +4,6 @@
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Studied English and Computer Science @ University of Florida
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Incoming MS Computer Science @ Florida International University
-
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Software Engineering, Game Development, Compilers, Security
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels and poetry, video games
