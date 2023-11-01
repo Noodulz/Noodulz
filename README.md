@@ -1,4 +1,4 @@
-<img src="https://github.com/Noodulz/Noodulz/blob/master/assets/GHB.png"/>
+<img src="https://github.com/Noodulz/Noodulz/blob/master/assets/GHB1.png"/>
 
 ## [<img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/>](https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif) About me
 
