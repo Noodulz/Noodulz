@@ -2,13 +2,13 @@
 
 ## [<img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/>](https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif) About me
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Full Stack Software Engineer with a penchant for film
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Developer with a penchant for film
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Studied English and Computer Science @ University of Florida
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Master of Computer Science student @ Florida International University
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Software Engineering, Game Development, Compilers, Security
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Full-Stack Development, Game Development, Graphics Programming, Compilers, Security
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels and poetry, video games
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels, playing co-ops with friends
 
 </br>
 
