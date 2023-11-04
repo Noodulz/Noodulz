@@ -2,7 +2,7 @@
 
 ## [<img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/>](https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif) About me
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Developer with a penchant for film
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Engineer with a penchant for film
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Master of Computer Science student @ Florida International University
 
