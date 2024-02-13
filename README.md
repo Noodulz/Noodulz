@@ -6,9 +6,9 @@
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Master of Computer Science student @ Florida International University
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Full-Stack Development, Game Development, Graphics Programming, Security, Machine Learning
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Machine Learning, Graphics Programming, Game Development, Full Stack
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels, playing co-ops with friends
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels, playing co-ops
 
 </br>
 
