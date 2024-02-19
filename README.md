@@ -4,7 +4,7 @@
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Engineer with a penchant for film
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Master of Computer Science student @ Florida International University
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> MSCS student and researcher @ Florida International University
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Machine Learning, Graphics Programming, Game Development, Full Stack
 
