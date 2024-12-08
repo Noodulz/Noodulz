@@ -8,7 +8,7 @@
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Machine Learning, Graphics Programming, Game Development, Full Stack
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, exploring new cities, reading novels, playing co-ops
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, urban exploration, reading, playing co-ops
 
 
 ## <img height="60" src="https://github.com/Noodulz/Noodulz/blob/master/assets/mew.gif"/> Links
