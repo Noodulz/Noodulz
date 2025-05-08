@@ -2,9 +2,9 @@
 
 ## [<img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/>](https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif) About me
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Engineer with a penchant for film
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Engineer and Researcher with a penchant for film
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> MSCS student and researcher @ Florida International University
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> MS CS @ Florida International University
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Machine Learning, Graphics Programming, Game Development, Full Stack
 
