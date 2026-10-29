@@ -2,13 +2,13 @@
 
 ## [<img height="40" src="https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif"/>](https://github.com/Noodulz/Noodulz/blob/master/assets/kyubey.gif) About me
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Software Engineer and Researcher with a penchant for film
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Data Scientist with a penchant for film
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> MS CS @ Florida International University
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> MS CS @ Florida International University, BA @ University of Florida
 
 ##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Specializations: Machine Learning, Graphics Programming, Game Development, Full Stack Development
 
-##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, urban exploration, reading, music, gaming
+##### <img height="25" src="https://github.com/Noodulz/Noodulz/blob/master/assets/rose.png"/> Hobbies: Watching films, urban exploration, reading, music, cooking
 
 
 ## <img height="60" src="https://github.com/Noodulz/Noodulz/blob/master/assets/mew.gif"/> Links
